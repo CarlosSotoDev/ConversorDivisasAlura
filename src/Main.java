@@ -23,7 +23,7 @@ public class Main {
             System.out.println("4) Real brasileño => Dólar");
             System.out.println("5) Dólar => Peso colombiano");
             System.out.println("6) Peso colombiano => Dólar");
-            System.out.println("7) Salir");
+            System.out.println("7) Salir del programa");
             System.out.println("Elija una opción válida:");
             System.out.println("********************************************");
 
